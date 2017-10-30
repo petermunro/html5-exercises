@@ -7,7 +7,7 @@ What kinds of applications might benefit from local storage?
 Using the JavaScript console, perform the following:
 
 1. `'localStorage' in window;`	// does this return true or false?
-2. `localStorage.setItem('myName’, 'Fergal');`
+2. `localStorage.setItem('myName', 'Fergal');`
 3. Check that this item has been added, using the browser's developer tools. In Chrome: dev tools -> 'Application' tab -> 'Storage'.
 4. `localStorage['age'] = '17';`
 5. `localStorage.location = 'Northern Ireland';`
